@@ -3,9 +3,9 @@
 
  O Diagrama UML possui 3 interfaces e 1 classe java.
 
- Sendo as Interfaces:
- -ReprodutorMusical
- -NavegadorInternet
- -AparelhoTelefonico
+ Sendo as Interfaces:  
+ -ReprodutorMusical  
+ -NavegadorInternet  
+ -AparelhoTelefonico  
 
  e a Classe Iphone que irá implementar as três interfaces.
